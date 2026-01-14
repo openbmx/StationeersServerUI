@@ -84,7 +84,7 @@
                 "UIText_AdditionalParams": "附加参数",
                 "UIText_AdditionalParamsInfo": "格式：CustomParam1 Value1 CustomParam2 Value2",
                 "UIText_AutoRestartServerTimer": "计划游戏服务器重启",
-                "UIText_AutoRestartServerTimerInfo": "<p>以<strong>分钟</strong>或<strong>时间格式（例如，15:04 或 03:04PM）</strong>为单位的时间框架，用于计划自动游戏服务器重启。0 = 禁用，1440 = 24 小时，等等。您将在重启前看到"注意，服务器将在 30/20/10/5 秒后重启！"的<strong>游戏内</strong>消息。</p>",
+                "UIText_AutoRestartServerTimerInfo": "<p>以<strong>分钟</strong>或<strong>时间格式（例如，15:04 或 03:04PM）</strong>为单位的时间框架，用于计划自动游戏服务器重启。0 = 禁用，1440 = 24 小时，等等。您将在重启前看到'注意，服务器将在 30/20/10/5 秒后重启！'的<strong>游戏内</strong>消息。</p>",
                 "UIText_GameBranch": "游戏分支",
                 "UIText_GameBranchInfo": "要使用的游戏分支。更改时，需要重启 SSUI 或在主仪表板上按更新服务器按钮！",
                 "UIText_AllowAutoGameServerUpdates": "启用自动游戏服务器更新",
@@ -273,5 +273,4 @@
             "BackendText_ServerStopped": "服务器已停止。"
         }
     }
-}
 }
