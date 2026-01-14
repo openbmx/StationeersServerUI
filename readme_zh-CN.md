@@ -107,9 +107,9 @@ _点击图片放大。_
 
 喜欢这个项目吗？我很乐意您帮助改进它！请参阅[贡献指南](https://github.com/JacksonTheMaster/StationeersServerUI/wiki/Contributing)开始。
 
-- 🐛 **发现错误？**[提交问题](https://github.com/JacksonTheMaster/StationeesServerUI/issues)
-- 💡 **有想法？**[建议功能](https://github.com/JacksonTheMaster/StationeesServerUI/issues/new?labels=enhancement)
-- 🤔 **有问题？**[查看 Wiki](https://github.com/JacksonTheMaster/StationeesServerUI/wiki) 或[发起讨论](https://github.com/JacksonTheMaster/StationeesServerUI/issues/new?labels=question)。
+- 🐛 **发现错误？**[提交问题](https://github.com/JacksonTheMaster/StationeersServerUI/issues)
+- 💡 **有想法？**[建议功能](https://github.com/JacksonTheMaster/StationeersServerUI/issues/new?labels=enhancement)
+- 🤔 **有问题？**[查看 Wiki](https://github.com/JacksonTheMaster/StationeersServerUI/wiki) 或[发起讨论](https://github.com/JacksonTheMaster/StationeersServerUI/issues/new?labels=question)。
 
 ## 许可证
 

@@ -106,9 +106,9 @@ _Click the images to expand them._
 
 Love this project? I'd love your help making it better! See the [Contributing Guidelines](https://github.com/JacksonTheMaster/StationeersServerUI/wiki/Contributing) to get started.
 
-- 🐛 **Found a bug?** [Open an issue](https://github.com/JacksonTheMaster/StationeesServerUI/issues)
-- 💡 **Have an idea?** [Suggest a feature](https://github.com/JacksonTheMaster/StationeesServerUI/issues/new?labels=enhancement)
-- 🤔 **Questions?** [Check the Wiki](https://github.com/JacksonTheMaster/StationeesServerUI/wiki) or [open a topic](https://github.com/JacksonTheMaster/StationeesServerUI/issues/new?labels=question).
+- 🐛 **Found a bug?** [Open an issue](https://github.com/JacksonTheMaster/StationeersServerUI/issues)
+- 💡 **Have an idea?** [Suggest a feature](https://github.com/JacksonTheMaster/StationeersServerUI/issues/new?labels=enhancement)
+- 🤔 **Questions?** [Check the Wiki](https://github.com/JacksonTheMaster/StationeersServerUI/wiki) or [open a topic](https://github.com/JacksonTheMaster/StationeersServerUI/issues/new?labels=question).
 
 ## License
 
