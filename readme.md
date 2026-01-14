@@ -4,6 +4,8 @@
 
 # Stationeers Server UI
 
+> **语言版本 / Language Versions:** [English](readme.md) | [中文](readme_zh-CN.md)
+
 ![Go](https://img.shields.io/badge/Go-1.25.0-blue?logo=go&logoColor=white)
 ![Version](https://img.shields.io/github/v/release/jacksonthemaster/StationeersServerUI?logo=github&logoColor=white)
 ![Issues](https://img.shields.io/github/issues/jacksonthemaster/StationeersServerUI?logo=github&logoColor=white)
