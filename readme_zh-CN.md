@@ -4,6 +4,9 @@
 > 本项目根据 SSUI [许可证](LICENSE)授权，不允许重新分发。
 > 请勿 fork，而是加入 [Discord](https://discord.gg/8n3vN92MyJ) 说明您的意图或[提交问题](https://github.com/SteamServerUI/SteamServerUI/issues)。
 
+> [!TIP]
+> **如何使用中文界面：** 在配置文件 `config.json` 中将 `LanguageSetting` 设置为 `"zh-CN"`，或使用环境变量 `LANGUAGE_SETTING=zh-CN`。
+
 ![Go](https://img.shields.io/badge/Go-1.25.0-blue?logo=go&logoColor=white)
 ![Version](https://img.shields.io/github/v/release/jacksonthemaster/StationeersServerUI?logo=github&logoColor=white)
 ![Issues](https://img.shields.io/github/issues/jacksonthemaster/StationeersServerUI?logo=github&logoColor=white)
